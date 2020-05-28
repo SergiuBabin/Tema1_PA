@@ -1,5 +1,6 @@
 # Tema1_PA
 P.D./Greedy....
+
 Tema 1 "ANOTHER DAY IN GIGELAND" Proiectarea Algoritmilor
 
 Babin Sergiu
